@@ -1,1 +1,2 @@
 First color is red
+Third color is orange
