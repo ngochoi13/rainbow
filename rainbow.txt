@@ -1,1 +1,2 @@
 First color is red
+Second color is yellow
